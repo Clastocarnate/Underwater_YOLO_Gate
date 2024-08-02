@@ -1,4 +1,4 @@
-# Deep-Monocular-SLAM# Visual SLAM Project
+# Deep-Monocular-SLAM
 
 This project focuses on implementing various components of a Visual SLAM (Simultaneous Localization and Mapping) system.
 
