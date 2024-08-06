@@ -38,13 +38,4 @@ This project focuses on implementing various components of a Visual SLAM (Simult
 - List the software and libraries needed to run the project.
 - Example: OpenCV, Eigen, Ceres Solver, etc.
 
-### Installation
-- Step-by-step instructions to set up the project environment.
-- Example:
-  ```bash
-  git clone https://github.com/yourusername/visual_slam_project.git
-  cd visual_slam_project
-  mkdir build
-  cd build
-  cmake ..
-  make
+
