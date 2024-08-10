@@ -14,7 +14,7 @@ This project focuses on implementing various components of a Visual SLAM (Simult
 
 3. **Visual Odometry**
    - Calculate the camera's motion by analyzing the changes in position of image features.
-   - Estimate relative motion between frames 
+   - Estimate relative motion between frames.
 
 4. **Mapping**
    - Build a consistent map of the environment using the data from visual odometry.
