@@ -10,6 +10,8 @@ int main(int argc, char** argv){
     //Eigen::Matrix is a template class which initialises matrix_23 to be a 2x3 matrix
     Eigen::Matrix<float, 2, 3> matrix_23;
     Eigen::Vector3d v_3d;
+    Eigen::Matrix<float, 3,1> vd_3d;
+    Eigen::Matrix3d matrix_33 = Eigen::Matrix3d::Zero()
     
     
     return 0;
